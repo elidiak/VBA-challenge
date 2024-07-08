@@ -12,4 +12,4 @@ The percentage change from the opening price at the beginning of a given quarter
 The total stock volume of the stock. 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
 
-Currently, the conditional formatting is not present. Expecting to fix that with a later version
+All functions currently work in both alphabetical testing and full quarterly sheet. VBA code exported as multiple_year_stock_data.bas
